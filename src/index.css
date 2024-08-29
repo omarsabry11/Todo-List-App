@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active
+{
+  
+    background-color: #2eb12e;
+    color: white;
+}
+*{
+    font-family: "Acme", sans-serif;
+}
