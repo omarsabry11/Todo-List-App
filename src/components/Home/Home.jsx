@@ -6,11 +6,6 @@ import { UpdatingContext } from '../../contexts/UpdatingContext/UpdatingContext'
 
 
 
-
-
-
-
-
 export default function Home() {
 
 
